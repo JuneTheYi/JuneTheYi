@@ -1,10 +1,6 @@
 # About Me
-<HTML>
-<head>
-      <link rel="stylesheet" href="JuneTheYi/style.css">
-</head>
-<body>
-Hi<span class="wave">👋</span>, I'm June Yi and welcome to my GitHub page.
+
+Hi👋, I'm June Yi and welcome to my GitHub page.
 
 I'm a recently transitioned Software Engineer Student at Lambda School in the process of learning backend development using Java. 
 
