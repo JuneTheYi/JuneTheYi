@@ -1,9 +1,9 @@
 # About Me
 <HTML>
-   <head>
+<head>
       <link rel="stylesheet" type="text/css" href="https://junetheyi.github.io/style.css">
-   </head>
-    <body>
+</head>
+<body>
 Hi<span class="wave">👋</span>, I'm June Yi and welcome to my GitHub page.
 
 I'm a recently transitioned Software Engineer Student at Lambda School in the process of learning backend development using Java. 
@@ -12,4 +12,5 @@ I graduated from United States Military Academy in 2010 and served as an Army Of
 
 In early 2021, I realized that I wanted to be as close to building the product as much as possible. What better way to do that than learning to code. This is just the beginning of my story.
 
-    </body>
+</body>
+</HTML>
