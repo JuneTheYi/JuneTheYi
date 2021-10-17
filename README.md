@@ -1,4 +1,5 @@
 # About Me
+<link rel="stylesheet" type="text/css" href="https://github.com/JuneTheYi/JuneTheYi/blob/main/style.css">
 
 Hi<span class="wave">👋</span>, I'm June Yi and welcome to my GitHub page.
 
@@ -8,4 +9,3 @@ I graduated from United States Military Academy in 2010 and served as an Army Of
 
 In early 2021, I realized that I wanted to be as close to building the product as much as possible. What better way to do that than learning to code. This is just the beginning of my story.
 
-<link rel="stylesheet" type="text/css" href="https://github.com/JuneTheYi/JuneTheYi/blob/main/style.css">
