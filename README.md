@@ -1,8 +1,7 @@
+# About Me
 <HTML>
    <head>
-# About Me
-      <link rel="stylesheet" type="text/css" href="https://github.com/JuneTheYi/JuneTheYi/blob/main/style.css">
-
+      <link rel="stylesheet" type="text/css" href="https://junetheyi.github.io/style.css">
    </head>
     <body>
 Hi<span class="wave">👋</span>, I'm June Yi and welcome to my GitHub page.
