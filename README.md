@@ -6,5 +6,5 @@ Hi👋, I'm June Yi and welcome to my GitHub page.
 
 :computer: In early 2021, I realized that I wanted to be closer to building the product as much as possible and enrolled in a Backend Development Bootcamp where I learned to code in Java.
 
-:star: Since then, I've been immersed in this field on a daily basis trying to learn as much as possible. Feel free to DM if you want to chat.
+:star: Since then, I've been immersed in this field on a daily basis trying to learn as much as possible. Feel free to DM me on my LinkedIn page if you want to chat.
 
