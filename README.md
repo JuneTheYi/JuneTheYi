@@ -1,7 +1,6 @@
 # About Me
 
-👋 Backend Development Course: 
-Software Engineer Bootcamp:
+👋 Backend Development Bootcamp (Oct 21' - Feb 22'): 
 - Java programming
 - Data Structures and Algorithms
 - DynamoDB design and other AWS applications
@@ -13,7 +12,7 @@ Software Engineer Bootcamp:
 - MVC pattern, Servlets, Thymleaf/JSP, Static web pages, Core Processing papplet, JavaFX, System Design
 - CompTIA A+, CompTIA Network+
 
-:star: Current Personal Study:
+:star: Recent Personal Study (Present):
 - Python, Flask, SQLAlchemy
 - Spring, Spring Boot, Hibernate
 
