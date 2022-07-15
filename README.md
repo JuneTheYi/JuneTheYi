@@ -1,7 +1,7 @@
 # BLUF
 
 :star: Interesting Projects:
-- None :crying: ... someday
+- None :sob: ... someday
 
 :boom: Personal Study (2022):
 - Python, Flask, SQLAlchemy
