@@ -13,7 +13,7 @@
 👋 Backend Development Bootcamp (Oct 21' - Feb 22'): 
 - Java programming
 - DynamoDB design and other AWS applications
-- Testing, JUnit, Dagger
+- Gradle, JUnit, Dagger
 - API design
 
 :computer: Certifications:
